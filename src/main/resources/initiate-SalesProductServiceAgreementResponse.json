@@ -1,0 +1,16 @@
+{
+  "agreementType" : "T2",
+  "agreementJurisdiction" : "AGRJUR8064",
+  "legalEntityReference" : "LAREF64865",
+  "agreementSignaturiesResponsibleParties" : "ASRP9806",
+  "salesProductAgreement" : "salesProductAgreement",
+  "productServiceType" : "Service Type",
+  "productInstanceReference" : "PIREF47654676",
+  "partyLifecycleManagementReference" : "KYC/Regulatory assessments",
+  "customerReference" : "CUSREF47654676",
+  "salesProductAgreementReference" : "SPAR47654676",
+  "agreementValidFromToDate" : "01/07/2018 - 01/09/2018",
+  "documentReference" : "DOCREF23478",
+  "customerAgreementReference" : "CAR0964",
+  "customerPrecedentsReference" : "CPR0874"
+}
